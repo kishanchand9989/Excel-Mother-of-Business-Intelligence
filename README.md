@@ -28,3 +28,7 @@
 #### • Analysed various datasets such as AtliQ Hardware dataset,Movies dataset etc.., and created a essential business Reports to present the data to stakeholders/businessleaders,Designed Business Reports such as P&L business reports,P&L Fiscal year report,Market Performance Vs Target Report,customer Net sales performance Report etc..,
 
 
+!<img width="325" alt="Screenshot 2023-07-18 220822" src="https://github.com/kishanchand9989/Excel-Mother-of-Business-Intelligence/assets/86097586/2f4932e7-6fd8-4846-913b-3c26b97dbdd4">
+!<img width="323" alt="Screenshot 2023-07-18 221002" src="https://github.com/kishanchand9989/Excel-Mother-of-Business-Intelligence/assets/86097586/43191b0c-ee9b-43c9-b721-769de2707344">
+
+
