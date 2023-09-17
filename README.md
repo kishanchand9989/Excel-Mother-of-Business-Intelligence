@@ -7,7 +7,7 @@
 
 #### • Formatting and Beautifying the Reports 
 
-#### • ETL operations using Power Query and also,learned about the data model as well to make a relationship between the tables.
+#### • ETL operations using Power Query and also,learned about the data model,To make a relationship between the tables.
 
 #### • Building Scenario Planning Tool
 
