@@ -19,13 +19,13 @@
 ## **🙌✅Hands on Work🙌✅**
 
 
-#### • created a monthly expenses tracker sheet to track my monthly expenditures 
+#### • Designed a monthly expenses tracker sheet to track my monthly expenditures 
 
 #### • Performed Data Cleaning and Data Transformation on more than 1 million records. 
 
 #### • Created a Business reports using Pivot tables.
 
-#### • Analysed various datasets such as AtliQ Hardware dataset,Movies dataset etc.., and created a essential business Reports to present the data to stakeholders/businessleaders,Designed Business Reports such as P&L business reports,P&L Fiscal year report,Market Performance Vs Target Report,customer Net sales performance Report etc..,
+#### • To Present an Data Driven Valuable Insights to the Stakeholders, I've created an essential Sales and Finance business Reports such as P&L business reports,P&L Fiscal year report,Market Performance Vs Target Report,customer Net sales performance Report)
 
 
 !<img width="325" alt="Screenshot 2023-07-18 220822" src="https://github.com/kishanchand9989/Excel-Mother-of-Business-Intelligence/assets/86097586/2f4932e7-6fd8-4846-913b-3c26b97dbdd4">
