@@ -16,14 +16,10 @@
 
 
 
-## **🙌✅Hands on Work🙌✅**
+## **🙌✅Hands on Practiced Report Work🙌✅**
 
 
 #### • Designed a monthly expenses tracker sheet to track my monthly expenditures 
-
-#### • Performed Data Cleaning and Data Transformation on more than 1 million records. 
-
-#### • Created a Business reports using Pivot tables.
 
 #### • Presented an Data Driven Valuable Insights from AtliQ Hardware Sales data to the Stakeholders,By Providing an essential Sales and Finance business Reports such as P&L business reports,P&L Fiscal year report,Market Performance Vs Target Report,customer Net sales performance Report)
 
