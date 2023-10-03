@@ -16,7 +16,9 @@
 
 **👉Task**: Analyze AtliQ Hardware Sales data using Excel and present insights through various reports.
 
-**👉Action**: Employed advanced Excel techniques to extract, clean, and analyze sales data. Created a suite of reports, including Profit & Loss business reports of [Fiscal month report](https://github.com/kishanchand9989/Excel-Mother-of-Business-Intelligence/blob/main/P%26L_by_Fiscal_month.png),[Fiscal year report](https://github.com/kishanchand9989/Excel-Mother-of-Business-Intelligence/blob/main/P%26L_by_Fiscal_Year.png),[Market Performance vs. Target report](https://github.com/kishanchand9989/Excel-Mother-of-Business-Intelligence/blob/main/Market_perf_vs_Target_Business_report.pdf) and [Customer Net Sales Performance reports](https://github.com/kishanchand9989/Excel-Mother-of-Business-Intelligence/blob/main/business_Sales_Report_pdf.pdf).
+**👉Action**: Employed advanced Excel techniques to extract, clean, and analyze sales data. Created a suite of reports, including Profit & Loss business reports of [Fiscal month report](https://github.com/kishanchand9989/Excel-Mother-of-Business-Intelligence/blob/main/P%26L_by_Fiscal_month.png),
+[Fiscal year report](https://github.com/kishanchand9989/Excel-Mother-of-Business-Intelligence/blob/main/P%26L_by_Fiscal_Year.png),
+[Market Performance vs. Target report](https://github.com/kishanchand9989/Excel-Mother-of-Business-Intelligence/blob/main/Market_perf_vs_Target_Business_report.pdf) and [Customer Net Sales Performance reports](https://github.com/kishanchand9989/Excel-Mother-of-Business-Intelligence/blob/main/business_Sales_Report_pdf.pdf).
 
 **📊Result**: Delivered essential business reports that empowered stakeholders to make informed decisions based on sales and financial data.
 
@@ -35,6 +37,3 @@
 #### ✅ Gained Functional Knowledge about Finance and Business
 
 [click here for ALL Reports](https://drive.google.com/drive/u/2/folders/1PAGSKlNjS5F7xpz1qrtb8_MArpSt8cgE)
-
-
-
