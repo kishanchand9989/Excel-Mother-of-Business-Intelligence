@@ -1,6 +1,6 @@
 ## **-------------------- **Excel: Mother-of-Business-Intelligence** -----------**
 
-**🎯 Excel Proficiency**: Performed various multiple tasks to Enhance my advanced Excel skills through practical applications,by providing Invaluable insights from the data for the  following Tasks
+**🎯 Excel Proficiency** : Performed various multiple tasks to Enhance my advanced Excel skills through practical applications,by providing Invaluable insights from the data for the  following Tasks
                                               
 
 **TASK-1**
@@ -37,3 +37,4 @@
 #### ✅ Gained Functional Knowledge about Finance and Business
 
 [click here for ALL Reports](https://drive.google.com/drive/u/2/folders/1PAGSKlNjS5F7xpz1qrtb8_MArpSt8cgE)
+
