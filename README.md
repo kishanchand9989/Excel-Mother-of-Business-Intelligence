@@ -9,14 +9,14 @@
 
 **👉Action**: Utilized Excel's functionalities to create a dynamic and easy-to-use sheet for tracking monthly expenditures. Implemented categories, calculations, and visual representations for enhanced financial management.
 
-**📊Result**: Developed a valuable tool for monitoring and managing personal finances efficiently.
+**📊Result**: Developed a valuable tool for monitoring and [managing personal finances efficiently](https://github.com/kishanchand9989/Excel-Mother-of-Business-Intelligence/blob/main/Monthly_Expenses_Tracker_Report.pdf).
 
 
 **TASK-2**
 
 **👉Task**: Analyze AtliQ Hardware Sales data using Excel and present insights through various reports.
 
-**👉Action**: Employed advanced Excel techniques to extract, clean, and analyze sales data. Created a suite of reports, including Profit & Loss business reports, Fiscal Year reports, Market Performance vs. Target reports, and Customer Net Sales Performance reports.
+**👉Action**: Employed advanced Excel techniques to extract, clean, and analyze sales data. Created a suite of reports, including Profit & Loss business reports, [Fiscal month reports](https://github.com/kishanchand9989/Excel-Mother-of-Business-Intelligence/blob/main/P%26L_by_Fiscal_month.png), Market Performance vs. Target reports, and [Customer Net Sales Performance reports](https://github.com/kishanchand9989/Excel-Mother-of-Business-Intelligence/blob/main/business_Sales_Report_pdf.pdf).
 
 **📊Result**: Delivered essential business reports that empowered stakeholders to make informed decisions based on sales and financial data.
 
