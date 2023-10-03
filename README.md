@@ -34,7 +34,7 @@
 
 #### ✅ Gained Functional Knowledge about Finance and Business
 
-[link for Reports]{https://drive.google.com/drive/u/2/folders/1PAGSKlNjS5F7xpz1qrtb8_MArpSt8cgE}
+[click here for ALL Reports](https://drive.google.com/drive/u/2/folders/1PAGSKlNjS5F7xpz1qrtb8_MArpSt8cgE)
 
 
 !<img width="325" alt="Screenshot 2023-07-18 220822" src="https://github.com/kishanchand9989/Excel-Mother-of-Business-Intelligence/assets/86097586/2f4932e7-6fd8-4846-913b-3c26b97dbdd4">
