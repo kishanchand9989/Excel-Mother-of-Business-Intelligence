@@ -1,6 +1,6 @@
 ## **-------------------- **Excel: Mother-of-Business-Intelligence** -----------**
 
-**🎯 Excel Proficiency**: Developed advanced Excel skills through practical application, by creating a expense tracker sheet and various kind of Bussiness Reports to fetch  Invaluable insights from the data for the  following Tasks
+**🎯 Excel Proficiency**: Performed various multiple tasks to Enhance my advanced Excel skills through practical applications,by providing Invaluable insights from the data for the  following Tasks
                                               
 
 **TASK-1**
