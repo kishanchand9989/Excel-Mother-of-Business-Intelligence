@@ -26,15 +26,15 @@
 
 ## **📌📌Learnings**
  
-#### ✅ Basics of Excel functions such as SUMIF,AVERAGE,INDEX,MATCH,XLOOKUP,VLOOKUP etc..
-
-#### ✅ Formatting and Beautifying the Reports 
-
-#### ✅ ETL operations using Power Query and also,learned about the data model,To make a relationship between the tables.
-
-#### ✅ Building Scenario Planning Tool
-
-#### ✅ Gained Functional Knowledge about Finance and Business
+  **✅ Basics of Excel functions such as SUMIF,AVERAGE,INDEX,MATCH,XLOOKUP,VLOOKUP etc..**
+  
+  **✅ Formatting and Beautifying the Reports**
+  
+  **✅ ETL operations using Power Query and also,learned about the data model,To make a relationship between the tables.**
+  
+  **✅ Building Scenario Planning Tool**
+  
+  **✅ Gained Functional Knowledge about Finance and Business**
 
 [click here for ALL Reports](https://drive.google.com/drive/u/2/folders/1PAGSKlNjS5F7xpz1qrtb8_MArpSt8cgE)
 
