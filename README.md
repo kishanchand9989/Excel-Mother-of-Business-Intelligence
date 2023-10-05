@@ -36,5 +36,6 @@
   
   **✅ Gained Functional Knowledge about Finance and Business**
 
-[click here for ALL Reports](https://drive.google.com/drive/u/2/folders/1PAGSKlNjS5F7xpz1qrtb8_MArpSt8cgE)
+[click here for ALL Reports](https://drive.google.com/drive/folders/1PAGSKlNjS5F7xpz1qrtb8_MArpSt8cgE?usp=sharing)
+
 
