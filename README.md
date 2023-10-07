@@ -7,9 +7,10 @@
 
 **👉Task**: Design and implement a user-friendly monthly expenses tracker sheet using Excel.
 
-**👉Action**: Utilized Excel's functionalities to create a dynamic and easy-to-use sheet for tracking monthly expenditures. Implemented categories, calculations, and visual representations for enhanced financial management.
+**👉Action**: Utilized Excel's functionalities to create a dynamic and easy-to-use sheet for tracking monthly expenditures,where I have Implemented all the incoming & outgoing source of categories, calculations,conditional Formatting with a Certain Target Values of Totals for Efficient track of Expenses.
 
-**📊Result**: Developed a valuable tool for monitoring and [managing personal finances efficiently](https://github.com/kishanchand9989/Excel-Mother-of-Business-Intelligence/blob/main/Monthly_Expenses_Tracker_Report.pdf).
+**📊Result**: Amidst life's many demands, I realized the importance of financial clarity. So, I crafted an intuitive [Expense Tracker](https://github.com/kishanchand9989/Excel-Mother-of-Business-Intelligence/blob/main/Monthly_Expenses_Tracker_Report.pdf) to take 
+control of my monthly expenditures, ensuring that my hard-earned money was being used wisely.
 
 
 **TASK-2**
